@@ -60,3 +60,4 @@ for numero in range(1,11):
         print(f"{numero} é par")
     else:
         print(f"{numero} é Ímpar")
+
